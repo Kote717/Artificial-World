@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Culture",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Neofeudal era]>",
+            "[+6 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Neofeudal era]>",
+            "[+12 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>"
+        ],
+        "color": [139, 96, 255]
+    },
+    ]
