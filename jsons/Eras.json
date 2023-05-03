@@ -1,8 +1,9 @@
+//Please don't touch this. Barely work
 [
 	{
 		"name": "Aftermath Era",
 		"researchAgreementCost": 150,
-		"startingSettlerCount": 0, // These values should not include the values given in Difficulties.json
+		"startingSettlerCount": 0,
 		"startingWorkerCount": 0,
 		"startingMilitaryUnitCount": 0,
 		"startingMilitaryUnit": "Scout",
